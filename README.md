@@ -1,3 +1,3 @@
 # snake
 
-![Imgur Image](http://i.https://imgur.com/a/sFUtPGA.gif)
+![Imgur Image](https://i.imgur.com/jnhDjEk.gif)
